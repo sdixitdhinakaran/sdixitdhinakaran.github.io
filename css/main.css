@@ -99,7 +99,7 @@ a:focus {
 
 h1, h2, h3, h4, h5, h6 {
   color: #212121;
-  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-family: 'Josefin+Sans', Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.5em;
   margin-top: 0;
@@ -638,7 +638,7 @@ body > footer .copyrights {
   color: #49515d;
   font-size: 20px;
   font-weight: 500;
-  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-family: 'Josefin+Sans', Helvetica, sans-serif;
   line-height: 1;
   margin: 38px 0 0;
 }
@@ -1274,7 +1274,7 @@ body > footer .copyrights {
 .testimonial-author {
   display: inline-block;
   font-size: 15px;
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Josefin+Sans', Helvetica, sans-serif;
   color: #212121;
   margin: 0;
   font-weight: 400;
